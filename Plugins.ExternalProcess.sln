@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowSynx.Plugins.ExternalProcess", "src\FlowSynx.Plugins.ExternalProcess.csproj", "{F29B6A87-475E-4081-9C2D-CCF8CDD9E6C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ADB44AEC-415B-4CF1-B0CA-92E8792716C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29B6A87-475E-4081-9C2D-CCF8CDD9E6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29B6A87-475E-4081-9C2D-CCF8CDD9E6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29B6A87-475E-4081-9C2D-CCF8CDD9E6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29B6A87-475E-4081-9C2D-CCF8CDD9E6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F29B6A87-475E-4081-9C2D-CCF8CDD9E6C6} = {ADB44AEC-415B-4CF1-B0CA-92E8792716C6}
+	EndGlobalSection
+EndGlobal
