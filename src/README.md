@@ -1,4 +1,4 @@
-# FlowSynx External Process Plugin
+## FlowSynx External Process Plugin
 
 The **FlowSynx External Process Plugin** is a plug-and-play integration for the FlowSynx automation engine. It allows workflows to execute external scripts, commands, or programs on the host system and capture their output, with no custom coding required.
 
@@ -88,4 +88,4 @@ The plugin accepts the following parameters:
 
 ## License
 
-© FlowSynx. All rights reserved.
+Â© FlowSynx. All rights reserved.
